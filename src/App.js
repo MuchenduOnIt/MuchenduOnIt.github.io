@@ -1,11 +1,13 @@
-import Background from './animated/animated'
-import './index.css'
+import Background from './animated/animated';
+import './index.css';
 
 function App() {
   return (
     <div className="App">
       <Background className="background" />
-      <p>This works</p>
+      <div className="hello">
+        Hello there <span className="wave">👋🏾</span> !
+      </div>
     </div>
   );
 }
