@@ -1,4 +1,4 @@
-import styles from '.animated.module.css';
+import styles from './animated.module.css';
 
 export default function animatedBackground() {
   return (
