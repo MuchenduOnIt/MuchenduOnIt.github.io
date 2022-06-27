@@ -1,5 +1,4 @@
 import Background from './animated/animated'
-import './App.css';
 
 function App() {
   return (
