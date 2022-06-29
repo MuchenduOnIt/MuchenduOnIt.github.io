@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Background className="background" />
-      <Navbar className="navBar"/>
+      <Navbar/>
       <div className="hello">
         Hello there <span className="wave">👋🏾</span> !
       </div>
