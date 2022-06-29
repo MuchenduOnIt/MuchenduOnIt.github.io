@@ -12,6 +12,17 @@
   color: azure;
 }
 
+ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+li {
+  margin: 10px;
+}
+
 .hello {
   position: absolute;
   top: 20%;
